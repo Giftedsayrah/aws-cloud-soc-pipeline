@@ -13,7 +13,7 @@ The goal was to enable logging, detect critical security events, and alert the S
 - Integrated CloudTrail with **CloudWatch Logs** for monitoring.  
 
 📸 *Screenshot:*  
-![Stage 1 & 2- CloudTrail Setup](aws-cloud-soc-pipeline/stage 1 & 2.pdf)  
+![Stage 1 & 2- CloudTrail Setup](Stage 1 & 2.pdf)  
 
 ---
 
@@ -25,7 +25,7 @@ The goal was to enable logging, detect critical security events, and alert the S
 - Configured **SNS topics** to send real-time alerts via email.  
 
 📸 *Screenshot:*  
-![Stage 3 & 4 - SNS Subscription](aws-cloud-soc-pipeline/stage 3 & 4.pdf)  
+![Stage 3 & 4 - SNS Subscription](stage 3 & 4.pdf)  
 
 ---
 
@@ -34,7 +34,7 @@ The goal was to enable logging, detect critical security events, and alert the S
 - Verified that CloudWatch triggered SNS alerts and delivered them via email.  
 
 📸 *Screenshot:*  
-![Stage 5 - Test Alert Email](aws-cloud-soc-pipeline/stage 5.pdf)  
+![Stage 5 - Test Alert Email](stage 5.pdf)  
 
 ---
 
