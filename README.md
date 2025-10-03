@@ -12,7 +12,7 @@ The goal was to enable logging, detect critical security events, and alert the S
 - Stored logs securely in an **S3 bucket**.  
 - Integrated CloudTrail with **CloudWatch Logs** for monitoring.  
 
-📄 *Screenshots:* [Stage 1 & 2.pdf](stage1.png,stage2.png))
+📄 *Screenshots:* (stage1.png)(stage2.png)
 
 ---
 
@@ -23,7 +23,7 @@ The goal was to enable logging, detect critical security events, and alert the S
   - S3 bucket configuration changes.  
 - Configured **SNS topics** to send real-time alerts via email.  
 
-📄 *Screenshots:* [Stage 3 & 4.pdf](stage3.png,stage4.png)) 
+📄 *Screenshots:* (stage3.png) (stage4.png)) 
 
 ---
 
@@ -31,7 +31,7 @@ The goal was to enable logging, detect critical security events, and alert the S
 - Simulated suspicious events (e.g., S3 policy change, IAM update).  
 - Verified that CloudWatch triggered SNS alerts and delivered them via email.  
 
-📄 *Screenshots:* [Stage 5.pdf](stage5.png)
+📄 *Screenshots:* (stage5.png)
 
 ---
 
